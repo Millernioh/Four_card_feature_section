@@ -1,0 +1,110 @@
+/*************************************TAGS**************************/
+
+body{
+  font-size: 15px;
+  background-color: hsl(0, 0%, 98%);
+  font-family:'Muli', sans-serif;
+
+}
+h1{
+  margin-bottom: 0;
+}
+
+h2{
+  color:hsl(234, 12%, 34%);
+  padding: 20px 20px 0;
+  margin-bottom:0;
+
+
+}
+p{
+  color: hsl(229, 6%, 66%);
+  line-height: 2;
+  text-align: center;
+
+}
+img{
+float:right;
+margin-right: 20px;
+}
+
+/**************************************CLASS************************/
+.header{
+text-align: center;
+padding-bottom:100px;
+}
+.container{
+margin: 100px;
+position: relative;
+text-align: center;
+}
+.first-header{
+  color: hsl(229, 6%, 66%);
+  font-family: 'Poppins', sans-serif;
+}
+.second-header{
+  font-family: sans-serif;
+  color:hsl(234, 12%, 34%);
+}
+.top-paragraph{
+  margin-bottom: 100px;
+
+}
+.block1{
+width:350px;
+height:250px;
+background-color:white;
+border-top: 3px solid hsl(180, 62%, 55%);
+position: absolute;
+left:20px;
+box-shadow:5px hsl(229, 6%, 66%);
+border-radius: 8px;
+box-shadow: 2px 2px 16px hsl(0,0%,70%);
+
+
+
+
+}
+.block2{
+  width:350px;
+  height:250px;
+  background-color:white;
+  border-top: 3px solid  hsl(0, 78%, 62%);
+  position: relative;
+  left:400px;
+  bottom: 120px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 16px hsl(0,0%,70%);
+
+
+
+
+}
+.block3{
+  width:350px;
+  height:250px;
+  background-color:white;
+  position: absolute;
+  left:400px;
+  bottom:100px;
+  border-top:3px solid hsl(34, 97%, 64%);
+  border-radius: 8px;
+  box-shadow: 2px 2px 16px hsl(0,0%,70%);
+
+}
+
+.block4{
+  width:350px;
+  height:250px;
+  background-color:white;
+  position: relative;
+  left:780px;
+  bottom: 260px;
+  border-top:3px solid hsl(212, 86%, 64%);
+  border-radius: 8px;
+  box-shadow: 2px 2px 16px hsl(0,0%,70%);
+
+
+
+
+}
